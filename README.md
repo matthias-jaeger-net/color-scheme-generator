@@ -5,8 +5,15 @@
 - Returns a color scheme as output
 
 # ColorScheme
-- Starts with the given color as "Brand" and returns a list of colors
-- - *Brand* The input color
-- - *Dark Brand* A darker value of the input color
-- - *Light Brand* A brighter value of the input color
-- - *Accent Brand* Complentairy color of the input
+
+- **Text Color Dark**
+- - *Text Color Dark* 
+- - *Text Color Dark--Muted* 
+- - *Text Color Dark--Highlighted* 
+- - *Text Color Dark--Accented* 
+
+- **Text Colors Bright**
+- - *Text Color Bright* 
+- - *Text Color Bright--Muted* 
+- - *Text Color Bright--Highlighted* 
+- - *Text Color Bright--Accented* 
