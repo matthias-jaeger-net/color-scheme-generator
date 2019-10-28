@@ -1,4 +1,5 @@
 # color-scheme-generator
+I am thinking in colors in the Hue-Saturation-Brightness model (HSB). The color value (hue) is represented as an angle ranging from ``0`` to ``2 * PI``, while saturation and brightness range from ``0``to ``100``.  
 
 ## Generator
 - Gets a single color as input 
