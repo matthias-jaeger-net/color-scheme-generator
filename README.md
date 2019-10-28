@@ -1,10 +1,12 @@
 # color-scheme-generator
 
-# Generator
+## Generator
 - Gets a single color as input 
 - Returns a color scheme as output
 
-# ColorScheme
+### ColorScheme(color)
+
+#### Desired output (work in progress)
 **Background Colors**
 - *Background Colors--Brand-Dark* 
 - *Background Colors--Brand-Bright* 
