@@ -5,7 +5,7 @@
 - Returns a color scheme as output
 
 # ColorScheme
-- **Background Colors**
+**Background Colors**
 - - *Background Colors--Brand-Dark* 
 - - *Background Colors--Brand-Bright* 
 
