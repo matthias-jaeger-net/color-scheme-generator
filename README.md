@@ -12,7 +12,7 @@
 - - *Text Color Dark--Highlighted* 
 - - *Text Color Dark--Accented* 
 - **Text Colors Bright**
--- *Text Color Bright* 
--- *Text Color Bright--Muted* 
--- *Text Color Bright--Highlighted* 
--- *Text Color Bright--Accented* 
+- - *Text Color Bright* 
+- - *Text Color Bright--Muted* 
+- - *Text Color Bright--Highlighted* 
+- - *Text Color Bright--Accented* 
